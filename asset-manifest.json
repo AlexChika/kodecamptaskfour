@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodecamptaskfour/static/css/main.76d1113f.css",
+    "main.js": "/kodecamptaskfour/static/js/main.5a106b24.js",
+    "index.html": "/kodecamptaskfour/index.html",
+    "main.76d1113f.css.map": "/kodecamptaskfour/static/css/main.76d1113f.css.map",
+    "main.5a106b24.js.map": "/kodecamptaskfour/static/js/main.5a106b24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d1113f.css",
+    "static/js/main.5a106b24.js"
+  ]
+}
